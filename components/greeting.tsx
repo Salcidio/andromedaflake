@@ -12,7 +12,7 @@ export const Greeting = () => {
         exit={{ opacity: 0, y: 10 }}
         transition={{ delay: 0.5 }}
         className="text-2xl font-semibold"
-      >Flake ai
+      >Welcome to Flake ai
         Hello there!
       </motion.div>
       <motion.div
@@ -22,7 +22,7 @@ export const Greeting = () => {
         transition={{ delay: 0.6 }}
         className="text-2xl text-zinc-500"
       >
-        How can I help you today?
+        How can I help you today Jason😎 and Carlos🧐?
       </motion.div>
     </div>
   );
