@@ -12,7 +12,7 @@ export const Greeting = () => {
         exit={{ opacity: 0, y: 10 }}
         transition={{ delay: 0.5 }}
         className="text-2xl font-semibold"
-      >
+      >Flake ai
         Hello there!
       </motion.div>
       <motion.div
